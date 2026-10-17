@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "c82832386c3f5fd524dc7dfd",
+  "owner": "mp4svvry5",
+  "repo": "page-1a6b307a58836554523e7db5",
+  "title": "豆腐云(ToFuCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1a6b307a58836554523e7db5",
+      "a": "豆腐云(ToFuCloud)",
+      "b": "",
+      "entity": "豆腐云(ToFuCloud)",
+      "brand": "豆腐云(ToFuCloud)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1586b5b3c20d6879a087cd1da4f15f8f9c8eb22c3b729bf9821cce13ba8b2b4e",
+      "content": {
+        "keyword1": "豆腐云(ToFuCloud)",
+        "keyword2": "",
+        "primary_entity": "豆腐云(ToFuCloud)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "豆腐云(ToFuCloud) 像做一块老豆腐一样做网络服务：选料、点卤、压榨，每一步都慢，每一步都讲究。从基础版到团队版，找到适合你的那一块。",
+          "AI_DESCRIPTION": "豆腐云(ToFuCloud) 像做一块老豆腐一样做网络服务：选料、点卤、压榨，每一步都慢，每一步都讲究。从基础版到团队版，找到适合你的那一块。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*,*::before,*::after{box-sizing:border-box}\nhtml{-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;text-size-adjust:100%}\nbody{margin:0;background:#f4ede4;color:#1f1a17;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;line-height:1.8;font-size:16px}\nmain{max-width:760px;margin:0 auto;padding:64px 20px 120px}\nh1,h2,h3{font-family:Georgia,\"Times New Roman\",\"Songti SC\",serif;font-weight:normal;line-height:1.4;color:#8a3324}\nh1{font-size:2rem;margin:0 0 8px;letter-spacing:.05em}\nh2{font-size:1.5rem;margin:72px 0 24px;position:relative}\nh2::before{content:\"\";display:block;width:32px;height:2px;background:#8a3324;margin-bottom:16px}\nh3{font-size:1.1rem;margin:32px 0 12px;color:#3d2820}\np{margin:12px 0}\na{color:#8a3324;text-decoration:none;border-bottom:1px solid transparent;transition:border-color .2s}\na:hover{border-bottom-color:#8a3324}\nstrong{font-weight:600}\n.hero-intro{font-size:1rem;color:#5a4a42;margin:16px 0 32px;max-width:420px}\n.timeline{border-left:2px solid #8a3324;margin:24px 0 0 24px;padding:0 0 0 24px}\n.timeline dt{font-size:.85rem;color:#8a3324;letter-spacing:.1em;margin-bottom:4px}\n.timeline dd{margin:0 0 24px;font-size:.95rem;color:#5a4a42}\n.timeline dd:last-child{margin-bottom:0}\n.card{border-left:4px solid #8a3324;padding:8px 0 8px 20px;margin:24px 0;background:transparent}\n.plan{border-left:4px solid #8a3324;padding:12px 0 12px 20px;margin:24px 0}\n.plan-head{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:baseline;margin-bottom:8px}\n.plan-name{font-size:1.15rem;font-weight:600;color:#3d2820;margin:0}\n.plan-price{font-size:1.15rem;color:#8a3324;font-family:Georgia,serif;margin:0}\n.plan-annual{font-size:.85rem;color:#7a6a62;margin:0 0 12px}\n.plan ul{list-style:none;padding:0;margin:8px 0 0}\n.plan li{padding:6px 0;border-bottom:1px dashed #d4c5b5;font-size:.95rem}\n.plan li:last-child{border-bottom:none}\n.plan.featured{border-left-width:6px;background:#ede4d8;padding-left:24px;margin-left:-4px}\n.tag{display:inline-block;font-size:.75rem;background:#8a3324;color:#f4ede4;padding:2px 8px;margin-left:8px;vertical-align:middle;letter-spacing:.1em}\n.faq{counter-reset:faq;list-style:none;padding:0;margin:24px 0}\n.faq li{counter-increment:faq;padding:20px 0 20px 48px;position:relative;border-bottom:1px solid #d4c5b5}\n.faq li:first-child{border-top:1px solid #d4c5b5}\n.faq li::before{content:counter(faq,decimal-leading-zero);position:absolute;left:0;top:20px;font-family:Georgia,serif;color:#8a3324;font-size:1rem;font-weight:bold}\n.faq h3{margin:0 0 8px;font-size:1rem;color:#3d2820}\n.faq p{margin:0;font-size:.95rem;color:#5a4a42}\n.step{display:flex;margin:24px 0}\n.step-num{flex:0 0 48px;font-family:Georgia,serif;font-size:1.5rem;color:#8a3324;line-height:1}\n.step-body p{margin:0 0 8px}\n.step-body p:first-child{font-weight:600;color:#3d2820}\n.nav-bottom{position:fixed;bottom:0;left:0;right:0;background:#1f1a17;color:#f4ede4;padding:12px 20px;text-align:center;font-size:.85rem;z-index:100;display:flex;flex-wrap:wrap;justify-content:center;gap:12px 20px}\n.nav-bottom a{color:#f4ede4;border-bottom:none}\n.nav-bottom a:hover{color:#c4a584}\n.note{background:#ede4d8;padding:16px 20px;margin:24px 0;font-size:.9rem;color:#5a4a42}\n.section-intro{color:#5a4a42;margin:16px 0 32px}\n@media (max-width:600px){\nmain{padding:48px 16px 100px}\nh1{font-size:1.6rem}\nh2{font-size:1.3rem}\n.nav-bottom{font-size:.75rem;gap:8px 16px;padding:10px 12px}\n}\n</style><main>\n<section>\n<h1>豆腐云(ToFuCloud) · 豆腐云 · ToFuCloud</h1>\n<p class=\"hero-intro\">做一块好豆腐要四样东西：好豆、好水、耐心，还有一双不怕烫的手。做一条好线路，其实也差不多。</p>\n<dl class=\"timeline\">\n<dt>二〇一九年春</dt>\n<dd>最初只是给几个做外贸的朋友搭的中转，挑了几条冷门但走得稳的线路。没有名字，没有面板，大家分摊服务器费用。</dd>\n<dt>二〇二〇年夏</dt>\n<dd>朋友带朋友，人数到了三十几个。我们开始做简单的用户系统，把节点按地区归类。那一版的面板很丑，但查流量很方便。</dd>\n<dt>二〇二一年秋</dt>\n<dd>正式起了「豆腐云」这个名字。做豆腐要慢工，做网络也是。我们接入了第一条 IPLC 专线，主要是为了有人抱怨晚上看视频卡。</dd>\n<dt>二〇二三年至今</dt>\n<dd>小本经营，没融过资。团队五个人，两个懂网络，两个懂代码，一个专门回复工单。我们不做周年庆，也不做黑五，价格全年一个样。</dd>\n</dl>\n</section>\n\n<section>\n<h2>写在前面</h2>\n<p class=\"section-intro\">市面上的机场多如牛毛，每家都说自己最快、最稳、最便宜。我们不想说这些。</p>\n<div class=\"card\">\n<p>豆腐云不追求极致的跑分数据，也不和别家比速度。我们更在意的是：你晚上十一点回家，打开视频能不能不转圈；你出差在外，登录工作邮箱会不会掉线；你玩外服游戏，延迟会不会突然跳到四位数。</p>\n<p>这些事情听起来平淡，但做起来需要天天盯着线路，哪条堵了就换哪条，哪条被人盯着就下掉。这种活儿不像写代码有成就感，但它确实能让网络好使一点。</p>\n</div>\n</section>\n\n<section>\n<h2>套餐选择</h2>\n<p class=\"section-intro\">三档套餐，没有花里胡哨的限时折扣。年付比月付划算一点，仅此而已。</p>\n\n<article class=\"plan\">\n<div class=\"plan-head\">\n<h3 class=\"plan-name\">基础版</h3>\n<p class=\"plan-price\">¥15/月</p>\n</div>\n<p class=\"plan-annual\">按年付仅需 ¥150/年</p>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</article>\n\n<article class=\"plan featured\">\n<div class=\"plan-head\">\n<h3 class=\"plan-name\">旗舰版<span class=\"tag\">多数人选</span></h3>\n<p class=\"plan-price\">¥35/月</p>\n</div>\n<p class=\"plan-annual\">按年付仅需 ¥350/年</p>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n</article>\n\n<article class=\"plan\">\n<div class=\"plan-head\">\n<h3 class=\"plan-name\">团队版</h3>\n<p class=\"plan-price\">¥85/月</p>\n</div>\n<p class=\"plan-annual\">按年付仅需 ¥850/年</p>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</article>\n\n<div class=\"note\">\n<p>所有套餐均提供试用期。如果你不确定哪档适合自己，建议先从基础版开始，用一周觉得不够再升级，差价按天折算。</p>\n</div>\n</section>\n\n<section>\n<h2>使用说明</h2>\n<p class=\"section-intro\">接入过程不复杂，但对没接触过的人来说，头一回总会绕一点。</p>\n\n<div class=\"step\">\n<div class=\"step-num\">一</div>\n<div class=\"step-body\">\n<p>注册账号并选择套餐</p>\n<p>用邮箱注册，不需要手机号。选好套餐后通过页面提示完成支付，账号会在几分钟内自动开通。</p>\n</div>\n</div>\n\n<div class=\"step\">\n<div class=\"step-num\">二</div>\n<div class=\"step-body\">\n<p>下载客户端</p>\n<p>豆腐云兼容主流的开源客户端，不单独提供软件下载。Windows 和 macOS 推荐 v2rayN 或 Clash 系列，iOS 推荐 Shadowrocket，安卓推荐 v2rayNG。这些客户端在各自的官方渠道均可免费获取。</p>\n</div>\n</div>\n\n<div class=\"step\">\n<div class=\"step-num\">三</div>\n<div class=\"step-body\">\n<p>导入订阅地址</p>\n<p>登录后在用户面板找到「一键订阅」链接，复制后粘贴到客户端的订阅设置里。更新一下节点列表，选一个离你近的地区，点连接。</p>\n</div>\n</div>\n\n<div class=\"step\">\n<div class=\"step-num\">四</div>\n<div class=\"step-body\">\n<p>遇到问题怎么办</p>\n<p>先在客户端里换一个节点试试，大部分卡顿都是单条线路的问题。如果换了几个节点都不行，去工单系统提一条，附上客户端截图和出问题的时段。我们会在二十四小时内回复。</p>\n</div>\n</div>\n</section>\n\n<section>\n<h2>常见问题</h2>\n<ol class=\"faq\">\n<li>\n<h3>速度能达到多少？</h3>\n<p>这取决于你当地的宽带和所选线路。大部分用户在晚高峰能跑到 <strong>30-50Mbps</strong>，白天通常更快。我们不承诺极限速度，但可以保证日常浏览和看视频不掉链子。</p>\n</li>\n<li>\n<h3>能在路由器上用吗？</h3>\n<p>可以。如果你的路由器支持 OpenWrt 或梅林固件，可以在插件里填入订阅地址实现全屋覆盖。具体配置方法各型号不同，建议查阅路由器社区的教程。</p>\n</li>\n<li>\n<h3>流量用完了怎么办？</h3>\n<p>套餐流量按自然月计算，用完后会暂停服务直到下个月一号。也可以在面板里单独购买加油包，<strong>¥10/50GB</strong>，当月有效。</p>\n</li>\n<li>\n<h3>换设备要重新配置吗？</h3>\n<p>不用。同一个账号最多支持套餐对应的设备数，在新设备上导入同一个订阅地址即可，系统会自动同步节点列表。</p>\n</li>\n<li>\n<h3>能解锁 Netflix 和 Disney+ 吗？</h3>\n<p>旗舰版和团队版的全节点均支持原生流媒体解锁。基础版部分节点支持，但不保证所有地区都能解锁，建议优先选日本和香港节点。</p>\n</li>\n<li>\n<h3>可以退款吗？</h3>\n<p>购买后四十八小时内、流量使用不超过 <strong>5GB</strong> 可以全额退款。超过这个范围一般不予退款，但如果你遇到严重的线路问题，可以提工单沟通。</p>\n</li>\n</ol>\n</section>\n\n</main>\n\n<nav class=\"nav-bottom\">\n<a href=\"#top\">回到顶部</a>\n<a href=\"#\">套餐</a>\n<a href=\"#\">使用说明</a>\n<a href=\"#\">常见问题</a>\n<a href=\"#\">用户面板</a>\n<a href=\"#\">提交工单</a>\n</nav>",
+          "hash": "7daa34dea3e7d9650f4afffd6e86f9fe9dd0833f3a5126ea09cebb5031de6bb8",
+          "seo": {
+            "title": "豆腐云(ToFuCloud) - 软嫩的连接，给认真上网的人",
+            "keywords": "豆腐云,ToFuCloud,机场,网络加速,专线,IPLC,流媒体解锁",
+            "description": "豆腐云(ToFuCloud) 像做一块老豆腐一样做网络服务：选料、点卤、压榨，每一步都慢，每一步都讲究。从基础版到团队版，找到适合你的那一块。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "1581",
+            "hero": "6 纵向时间线引入",
+            "palette": "2 米白配砖红",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nkwprqq.cn",
+    "host": "p-1e7196631b.nkwprqq.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "31e73f7d5a9c9c8e13f2a36c3aee2335a5b936e0858a81fafc8573bfd6f91a10",
+    "sitemap.xml": "04ebeca044b18e2ea507c7b47cee94ad1db7c7e70009c9d88be6eb209cb0e5d3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "363de8a4dad7a253121a391106850dc37a110ef692f970006a44286f3eca5da1",
+    "robots.txt": "0491aa58751c1982440a3f953726e8191ad0c1a556f2702cc1fa788981f42da0",
+    "c15b78237a635d9a13088f85b789e60c.txt": "64f4df784c21c5124a82290fbf108fcee24576eb94f1d7518cc6e882363da19e"
+  },
+  "revision": "5ed871505e1f0dfe8037e11c0647cfa0f5456011907c465ddeef3a277f843685"
+}
